@@ -25,8 +25,8 @@ function changeColor(element) {
 
 //select first child of first parent
 
-const childOneParentOne = document.querySelector(".child");
-changeColor(childOneParentOne);
+// const childOneParentOne = document.querySelector(".child");
+// changeColor(childOneParentOne);
 
 
 
