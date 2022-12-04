@@ -10,7 +10,7 @@ function changeColor(element) {
 
 
 
-//select and change parents color
+//select and change both parents color
 
 // const parent = Array.from(document.querySelectorAll(".parent"));
 // parent.forEach(changeColor);
@@ -25,8 +25,8 @@ function changeColor(element) {
 
 //select first child of first parent
 
-// const childOneParentOne = document.querySelector(".child");
-// changeColor(childOneParentOne);
+const childOneParentOne = document.querySelector(".child");
+changeColor(childOneParentOne);
 
 
 
